@@ -1,5 +1,9 @@
-# Object file
-*.o
+DemoAcc/
+training_8_3_19_1150/
+1cHelpIndex/
+*.lgp
+*.lgf
+*.lgp
+*.lgx
 
-# Ada Library Information
-*.ali
+
